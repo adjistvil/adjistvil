@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @adjistvil
-- 💻 Currently building Funnel™.
+- Hello, I’m @adjistvil
+- Currently building Funnel™.
