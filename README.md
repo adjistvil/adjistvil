@@ -1,2 +1,1 @@
-- Hello, I’m @adjistvil
-- Currently building Funnel™.
+
